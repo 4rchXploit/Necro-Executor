@@ -1,0 +1,21 @@
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\Project Necro.exe.config
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\Project Necro.exe.manifest
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\Project Necro.application
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\Project Necro.exe
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\Project Necro.pdb
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\FastColoredTextBox.dll
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\bin\Debug\WeAreDevs_API.dll
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.csproj.AssemblyReference.cache
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.Credits.resources
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.Form1.resources
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.Properties.Resources.resources
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.ScriptHub.resources
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.csproj.GenerateResource.cache
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.csproj.CoreCompileInputs.cache
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\Project Necro.exe.manifest
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\Project Necro.application
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.csproj.CopyComplete
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\Project Necro.exe
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\Project Necro.pdb
+C:\Users\Crystal\source\repos\OperationNecro\ProjectLookingGLass\obj\Debug\ProjectLookingGLass.Login.resources
